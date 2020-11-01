@@ -4,7 +4,7 @@
 [![Generic badge](https://img.shields.io/badge/build%20with-gradle-blueviolet.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/code%20coverage-92%20%25-red.svg)](https://shields.io/)
 
-##Problem context
+## Problem context
 
 Implement a demand-supply matching program for an online market maker.
 
